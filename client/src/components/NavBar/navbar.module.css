@@ -1,0 +1,33 @@
+.navbar {
+    background-color: rgb(18, 36, 81);
+    /* background-color: rgb(220, 223, 232); */
+    color: #fff;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content:flex-end;
+    position:sticky;
+    top:0px;
+    padding-right: 1rem;
+}
+
+.link {
+    color: #fff;
+    padding: 4px;
+    /* font: bold; */
+    text-decoration:none;
+    font-weight: 600;
+}
+.link:hover {
+    color: rgb(241, 160, 67);
+}
+.fakelink {
+    color: #fff;
+    padding: 3px;
+    font-weight: 600;
+    user-select: none;
+}
+.fakelink:hover {
+    cursor: pointer;
+    color: rgb(241, 160, 67);
+}

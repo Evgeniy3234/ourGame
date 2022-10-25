@@ -1,0 +1,16 @@
+.mainProfile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(18, 36, 81);
+}
+.points {
+width: 400px;
+display: flex;
+justify-content: space-between;
+}
+.number {
+    width: 62px;
+    text-align: left;
+}

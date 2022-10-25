@@ -1,0 +1,9 @@
+1. Инициализация проекта 
+  - npm init -y
+
+2. Установка нужного
+- npm i react-router-dom
+- npm i axios
+
+3. MUI
+npm install @mui/material @emotion/react @emotion/styled
